@@ -103,7 +103,7 @@ I’ll add screenshots here once I record the Android output and web viewer.
 
 
 
-About Me :
+About Me
 
 Name: Aryan Rajawat
 Role: Student / Developer
