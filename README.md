@@ -1,6 +1,6 @@
 # Flam R&D Assignment - Real Time Edge Detection
 
-Hi, I’m Aryan Rajawat 
+Hi, I’m Aryan Rajawat
 This is my submission for the Flam Software Engineering Intern (R&D) assignment.
 
 The task was to make a small Android project that can do real-time edge detection using OpenCV and NDK, and also create a small web viewer using TypeScript.
@@ -111,5 +111,5 @@ GitHub: @Aryan-Rajawat
 
 Email: (2k22.cscys.2212230@gmail.com)
 
-Thanks for reading! 
+Thanks for reading!
 ```
