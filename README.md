@@ -1,6 +1,10 @@
 # Flam R&D Assignment - Real Time Edge Detection
 
-Hi, I’m Aryan Rajawat
+Hi, I’m Aryan Singh
+Roll Number : 2201641720029
+CS-CYS-4A
+Pranveer Singh Institute of Technology
+
 This is my submission for the Flam Software Engineering Intern (R&D) assignment.
 
 The task was to make a small Android project that can do real-time edge detection using OpenCV and NDK, and also create a small web viewer using TypeScript.
