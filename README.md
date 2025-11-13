@@ -101,7 +101,7 @@ Screenshots (to be added later)
 
 I’ll add screenshots here once I record the Android output and web viewer.
 
-# Update: Added more setup details.
+
 
 About Me
 
