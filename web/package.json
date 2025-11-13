@@ -1,0 +1,11 @@
+{
+  "name": "flam-web-viewer",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "echo 'Open web/index.html in browser'"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
